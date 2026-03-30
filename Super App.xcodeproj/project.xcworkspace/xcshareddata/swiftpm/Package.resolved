@@ -1,0 +1,15 @@
+{
+  "originHash" : "487ad46404171c478136347ca13d794f180dac39ddfb5e8ad1e02a80ef3b2f3c",
+  "pins" : [
+    {
+      "identity" : "superappsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/taroobahmedAppsGenii/SuperAppSDK",
+      "state" : {
+        "revision" : "0be8e3e8b6a784ef2023ebeb18b5d996416a6814",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 3
+}
